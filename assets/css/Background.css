@@ -1,0 +1,23 @@
+.bg-login-image, .bg-password-image, .bg-register-image {
+  background-position: 50%;
+  background-size: cover;
+}
+
+.card-body {
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 1.25rem;
+}
+
+.bg-gradient-primary {
+  background-color: #4e73df;
+  background-image: url(../../assets/img/books_old_reading_124989_2560x1440.jpg);
+  background-size: cover;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+  background-image: url(../../assets/img/books_old_reading_124989_2560x1440.jpg);
+}
+
