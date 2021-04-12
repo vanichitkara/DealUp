@@ -4,6 +4,12 @@ The project DealUp is built with the motive to ease the lives of shopkeepers, de
 their payment and order records on our website. Traditionally, records are maintained on paper which can be easily lost or destroyed, so the 
 project was built to curb this problem.
 
+### Tech Stack used
+HTML, CSS, JavaScript
+
+### Tools used
+Bootstrap Studio, Canva, Wix
+
 This project was demoed at the Delhi Hacks Hackathon held from 5th to 7th September,2020 and organized by Script Foundation. The project won the
 MLH (Major League Hacking) category prize of 'Best Beginner Hack'.
 
