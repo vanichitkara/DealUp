@@ -16,7 +16,7 @@ MLH (Major League Hacking) category prize of 'Best Beginner Hack'.
 ## Video Demo of the project
 https://youtu.be/ONYt9yH6BR0
 
-## Devpost Submission of the project at the Delhi Hacks Hackathon
+## Devpost submission of the project at the Delhi Hacks Hackathon
 Learn more about our project
 https://devpost.com/software/dealup
 
