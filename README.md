@@ -19,6 +19,9 @@ MLH (Major League Hacking) category prize of 'Best Beginner Hack'.
 3) Navigate to the path where the repository is cloned.
 4) Open the [index.html](https://github.com/vanichitkara/DealUp/blob/main/index.html) file.
 
+## Website 
+https://dealup.netlify.app/
+
 ## Video Demo of the project
 https://youtu.be/ONYt9yH6BR0
 
