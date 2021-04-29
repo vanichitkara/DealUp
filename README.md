@@ -10,6 +10,7 @@ HTML, CSS, JavaScript
 ### Tools used
 Bootstrap Studio, Canva, Wix
 
+## Achievements
 This project was demoed at the Delhi Hacks Hackathon held from 5th to 7th September,2020 and organized by Script Foundation. The project won the
 MLH (Major League Hacking) category prize of 'Best Beginner Hack'.
 
